@@ -37,4 +37,3 @@ print(paths)
 
 py_files = [p for p in path.glob("**/*.py")]
 # replace .glob with .rglob to search recursively
-

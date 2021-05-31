@@ -4,9 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-selenium = "*"
-requests = "*"
-pypdf2 = "*"
 
 [dev-packages]
 
